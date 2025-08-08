@@ -1,0 +1,14 @@
+krakenex==2.1.0
+ccxt==4.1.77
+pandas>=2.2.0
+numpy>=1.24.0
+ta==0.10.2
+python-dotenv==1.0.0
+schedule==1.2.0
+requests==2.31.0
+websocket-client==1.6.4
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.17.0
+flask>=2.3.0
+gunicorn>=21.0.0
